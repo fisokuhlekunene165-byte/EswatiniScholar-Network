@@ -1,0 +1,28 @@
+{
+  "id": "/",
+  "name": "Eswatini Scholars Network",
+  "short_name": "ESN",
+  "description": "Eswatini Scholars Network \u2014 school achievements, learning resources, scholarships and study support.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#0a2540",
+  "icons": [
+    {
+      "src": "/icons/esn-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/esn-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
